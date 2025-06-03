@@ -17,9 +17,8 @@ A powerful Streamlit-based application that allows users to upload PDF documents
 
 *Watch the full demo to see how easy it is to upload a PDF and start chatting with your documents!*
 
-**Alternative ways to add video:**
 
-### Option 1: Using GIF
+### GIF
 ```markdown
 ![Demo GIF](path/to/your/demo.gif)
 ```
