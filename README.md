@@ -11,17 +11,13 @@ A powerful Streamlit-based application that allows users to upload PDF documents
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo GIF
 
-![Demo](https://github.com/your-username/gemini-chat-with-pdf/blob/main/demo.gif)
+![Demo](https://github.com/chinmay-pardeshi/gemini-chat-with-pdf/blob/main/demo/Chatwithpdf-gif.gif)
 
 *Watch the full demo to see how easy it is to upload a PDF and start chatting with your documents!*
 
 
-### GIF
-```markdown
-![Demo GIF](path/to/your/demo.gif)
-```
 
 
 ## 🧠 Powered By
