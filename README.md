@@ -23,13 +23,14 @@ A powerful Streamlit-based application that allows users to upload PDF documents
 ---
 
 ## 📁 Project Structure
-
+---
 gemini-chat-with-pdf/
 │
 ├── app.py # Main Streamlit application
 ├── .env # Environment variables (API key)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+---
 
 yaml
 Copy
