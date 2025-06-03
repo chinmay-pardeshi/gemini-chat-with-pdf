@@ -11,6 +11,20 @@ A powerful Streamlit-based application that allows users to upload PDF documents
 
 ---
 
+## 🎥 Demo Video
+
+![Demo](https://github.com/your-username/gemini-chat-with-pdf/blob/main/demo.gif)
+
+*Watch the full demo to see how easy it is to upload a PDF and start chatting with your documents!*
+
+**Alternative ways to add video:**
+
+### Option 1: Using GIF
+```markdown
+![Demo GIF](path/to/your/demo.gif)
+```
+
+
 ## 🧠 Powered By
 - [Google Generative AI (Gemini)](https://ai.google.dev/)
 - [Streamlit](https://streamlit.io/)
