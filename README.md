@@ -1,6 +1,7 @@
 # 📚 Gemini Chat with PDF
 A powerful Streamlit-based application that allows users to upload PDF documents and interact with them using **Google's Gemini AI**. It extracts the text from the PDF and enables natural language Q&A based on the document content.
 
+🌐 **[Live Demo on Streamlit Cloud](https://gemini-chat-with-pdf-version1.streamlit.app/)**  
 ---
 
 ## 🔍 Features
@@ -69,3 +70,4 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 ```bash
 streamlit run app.py
 ```
+
